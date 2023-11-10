@@ -1,0 +1,3 @@
+/home/ie/Scrivania/My_Palisade/build/CMakeFiles/rebuild_cache.dir
+/home/ie/Scrivania/My_Palisade/build/CMakeFiles/edit_cache.dir
+/home/ie/Scrivania/My_Palisade/build/CMakeFiles/enc-palisade.dir
